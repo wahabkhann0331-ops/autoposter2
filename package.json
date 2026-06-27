@@ -1,7 +1,7 @@
 {
   "name": "autoposter2",
-  "version": "1.0.0",
-  "description": "AutoPoster Pro - Social Media Automation",
+  "version": "2.0.0",
+  "description": "AutoPoster Pro - Multi-Platform Social Media Automation",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -17,6 +17,7 @@
     "dotenv": "^16.3.1",
     "express-session": "^1.17.3",
     "passport": "^0.7.0",
-    "passport-google-oauth20": "^2.0.0"
+    "passport-google-oauth20": "^2.0.0",
+    "passport-facebook": "^3.0.0"
   }
 }
